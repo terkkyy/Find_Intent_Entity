@@ -13,6 +13,9 @@ pip install flask transformers torch joblib pythainlp easynertag
 ```
 
 2. **รันแอปพลิเคชัน**
+```bash
+python app.py
+```
 
 3. **การใช้งาน**
 
