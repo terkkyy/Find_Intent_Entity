@@ -31,3 +31,6 @@ pip install flask transformers torch joblib pythainlp easynertag
 ## ข้อกำหนดและเงื่อนไข
 
 โปรเจคนี้ถูกพัฒนาขึ้นเพื่อการศึกษา สามารถนำไปปรับใช้หรือพัฒนาต่อยอมรับในข้อกำหนดของ [MIT License](./LICENSE)
+```bash
+Watcharin Khamkhotsoon, Flask Application for Intent Classification and Entity Recognition, 2024. GitHub repository: [Find_Intent_Entity.git](https://github.com/terkkyy/Find_Intent_Entity.git).
+```
